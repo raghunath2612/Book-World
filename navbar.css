@@ -1,0 +1,23 @@
+.mynav{
+    margin-left: 9em;
+    margin-right: 9em;
+    font-size: 0.65em;
+    padding: 0%;
+    background-color: inherit!important;
+}
+.mysearch{
+    font-size: .65em;
+}
+.mybutton{
+    font-size: .65em;
+}
+.columns{
+    padding: 1.5%;
+}
+a{
+    color: inherit;
+    text-decoration: inherit;
+}
+a.hover{
+    color: black;
+}

@@ -1,0 +1,43 @@
+
+.logoimage{
+    height: 1.5em;
+    width: 1.5em;
+}
+.mysearch{
+    font-size: .65em;
+}
+.mybutton{
+    font-size: .65em;
+}
+.under{
+    padding:3.5em 7em 2em 5em;
+    background-image: url("images/bgimage.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+
+}
+.custbtn{
+    background-color: #ff6122;
+    color: white;
+    margin-right: 1.5em;
+}
+.hmimage{
+    padding-top: 3.5em;
+    width: 100%;
+    align-self: center;
+}
+.hmimage2{
+    width: 80%;
+    align-self: center;
+}
+
+.middle{
+    padding:5em 7em 2em 5em;
+    background-image: url("images/rmbg.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+
+.middle1{
+    padding-bottom: 3em;
+}
